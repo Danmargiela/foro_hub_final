@@ -7,12 +7,6 @@ Bienvenido a Foro Hub, una API REST para un foro construida con Spring Boot. Est
 - [Características](#características)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Requisitos Previos](#requisitos-previos)
-- [Instalación](#instalación)
-- [Configuración](#configuración)
-- [Uso](#uso)
-- [Endpoints](#endpoints)
-- [Pruebas](#pruebas)
-- [Contribución](#contribución)
 - [Autor](#autor)
 - [Licencia](#licencia)
 
@@ -43,13 +37,12 @@ Bienvenido a Foro Hub, una API REST para un foro construida con Spring Boot. Est
 - Maven
 - MySQL
 
-Autor
+## Autor
 
-Daniel Sánchez
+**Daniel Sánchez**
 
-	•	GitHub
-	•	LinkedIn
+- [GitHub](https://github.com/Danmargiela)
 
-Licencia
+## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
